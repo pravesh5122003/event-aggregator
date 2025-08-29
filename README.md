@@ -16,8 +16,6 @@ An easy-to-use web platform built with the **MERN Stack (MongoDB, Express, React
 - **Database:** MongoDB (Atlas)
 - **Deployment:** Vercel (frontend) + Render (backend)
 
-## 📂 Project Structure
-
 ## ⚡ Installation & Setup
 
 1. Clone the repository:
