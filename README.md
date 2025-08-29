@@ -17,7 +17,6 @@ An easy-to-use web platform built with the **MERN Stack (MongoDB, Express, React
 - **Deployment:** Vercel (frontend) + Render (backend)
 
 ## ⚡ Installation & Setup
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/event-aggregator.git
