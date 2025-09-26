@@ -7,7 +7,7 @@ An easy-to-use web platform built with the **MERN Stack (MongoDB, Express, React
 - 📝 Create and manage your own events
 - 👥 User authentication (students & organizers)
 - 📅 Event categories and filters for easy discovery
-- 💬 Real-time updates (event status, reminders)
+- 💬 Real-time updates (event status, reminders etc)
 - 📱 Responsive UI for mobile and desktop
 
 ## 🛠️ Tech Stack
