@@ -3,7 +3,7 @@
 An easy-to-use web platform built with the **MERN Stack (MongoDB, Express, React, Node.js)** that helps college students discover, create, and manage events in one place.  
 
 ## 🚀 Features
-- 🔍 Browse upcoming college events (cultural, technical, fests, workshops, etc.)
+- 🔍 Browse upcoming college events (cultural, technical, fests, workshops, etc.) 
 - 📝 Create and manage your own events
 - 👥 User authentication (students & organizers)
 - 📅 Event categories and filters for easy discovery
