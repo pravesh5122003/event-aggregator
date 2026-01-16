@@ -1,5 +1,5 @@
 # 🎓 Event Aggregator for College Students
-
+ 
 An easy-to-use web platform built with the **MERN Stack (MongoDB, Express, React, Node.js)** that helps college students discover, create, and manage events in one place.  
 
 ## 🚀 Features
